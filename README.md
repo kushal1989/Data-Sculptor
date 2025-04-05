@@ -27,23 +27,17 @@ This interactive Streamlit application is designed to simplify data visualizatio
 ## Screenshots
 
 ### Upload CSV File  
-`[Insert Screenshot]`
-![Screenshot 2025-04-05 213124](https://github.com/user-attachments/assets/ac7ae3f2-1875-4525-8037-90cf30cff868)
 ![Screenshot 2025-04-05 203240](https://github.com/user-attachments/assets/749c595b-630d-47c2-93cd-3dc559784114)
-![Data-Visualizer1](https://github.com/user-attachments/assets/e217fd46-6dfb-4be9-8a43-8aea8b5d5909)
-![Data-Visualizer](https://github.com/user-attachments/assets/d9650036-8a78-49d4-9e9f-33494f131cad)
 
 ### Select Plot Options  
-`[Insert Screenshot]`
+![Data-Visualizer1](https://github.com/user-attachments/assets/e217fd46-6dfb-4be9-8a43-8aea8b5d5909)
 
 ### Customize Color and Generate Plot  
-`[Insert Screenshot]`
+![Data-Visualizer](https://github.com/user-attachments/assets/d9650036-8a78-49d4-9e9f-33494f131cad)
 
 ### Output Plot and Statistics  
-`[Insert Screenshot]`
+![Screenshot 2025-04-05 213124](https://github.com/user-attachments/assets/ac7ae3f2-1875-4525-8037-90cf30cff868)
 
 ## Usage
 
-1. Launch the app by running:
-   ```bash
-   streamlit run main1.py
+
