@@ -1,8 +1,43 @@
-# Data-Visualizer
-This Streamlit application is designed to facilitate data visualization for users by providing an intuitive and user-friendly interface to upload CSV files and generate various types of plots. Upon uploading a CSV file, users can choose between generating a single plot or multiple plots. This flexibility allows users to tailor the visualization process to their specific analytical needs.
-For single plots, users can select columns for the X and Y axes from the uploaded dataset and choose from a variety of plot types, including line plots, scatter plots, bar charts, distribution plots, count plots, and heatmaps. Each plot type serves a unique purpose, offering different insights into the data. For instance, line plots are ideal for visualizing trends over time, scatter plots for examining relationships between two continuous variables, bar charts for comparing categorical data, distribution plots for understanding the distribution of a single variable, count plots for visualizing the frequency of categorical variables, and heatmaps for displaying the correlation matrix of the dataset.
-To enhance the customization of plots, the application includes a color picker, allowing users to select their preferred color for the graphs. This feature not only improves the aesthetic appeal of the plots but also helps in distinguishing different plots when multiple visualizations are created.
-Once a plot is generated, it is displayed within the application along with a detailed summary. The summary includes descriptive statistics for the selected columns, providing users with insights into the data's central tendency and variability. For plots involving two variables, the correlation coefficient is also displayed, offering a quantitative measure of the relationship between the variables. This comprehensive approach ensures that users not only see the visual representation of the data but also understand the underlying statistics.
-In addition to visualization, the application provides a convenient download function that allows users to save the generated plots as PNG files. This feature is particularly useful for users who need to include these plots in reports, presentations, or further analysis.
-The multiple plots option is designed to generate a series of different plot types using the selected columns, providing a comprehensive visual analysis of the data. This feature is particularly useful for comparing how different plot types represent the relationship between selected variables. By presenting multiple visual perspectives, users can gain a more holistic understanding of their data.
-The application leverages the powerful visualization libraries Matplotlib and Seaborn to create high-quality, informative graphics. By simplifying the data visualization process, this Streamlit app aims to enhance data analysis capabilities for users.
+# 📊 Data Visualizer
+
+## Overview  
+This interactive Streamlit application is designed to simplify data visualization for users by offering an intuitive interface to upload CSV files and generate various types of plots. Users can choose between creating single or multiple plots, customize visualizations with color selections, view statistical summaries, and download plots for further use. This application is ideal for students, analysts, and anyone who wants to explore their data visually without coding.
+
+## Features
+
+- **User-Friendly CSV Upload**: Easily upload any dataset in CSV format.
+- **Two Visualization Modes**:
+  - **Single Plot**: Select X and Y columns and generate one of the following plots:
+    - Line Plot
+    - Scatter Plot
+    - Bar Chart
+    - Distribution Plot
+    - Count Plot
+    - Heatmap
+  - **Multiple Plots**: Generate multiple visualization types at once using selected columns.
+- **Color Picker**: Customize the color of your plots for better presentation and clarity.
+- **Statistical Summary**:
+  - Displays descriptive statistics (mean, std, etc.) for selected columns.
+  - Shows correlation coefficient for paired variables.
+- **Downloadable Plots**: Save your generated plots as PNG files for reports or presentations.
+- **Clean and Interactive UI**: Built with Streamlit for seamless interaction.
+
+## Screenshots
+
+### Upload CSV File  
+`[Insert Screenshot]`
+
+### Select Plot Options  
+`[Insert Screenshot]`
+
+### Customize Color and Generate Plot  
+`[Insert Screenshot]`
+
+### Output Plot and Statistics  
+`[Insert Screenshot]`
+
+## Usage
+
+1. Launch the app by running:
+   ```bash
+   streamlit run main1.py
