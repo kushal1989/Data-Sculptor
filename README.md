@@ -26,18 +26,22 @@ This interactive Streamlit application is designed to simplify data visualizatio
 
 ## Screenshots
 
-### Upload CSV File  
+### User Page 
 ![Screenshot 2025-04-05 203240](https://github.com/user-attachments/assets/749c595b-630d-47c2-93cd-3dc559784114)
 
-### Select Plot Options  
+### INdividual PLot 
 ![Data-Visualizer1](https://github.com/user-attachments/assets/e217fd46-6dfb-4be9-8a43-8aea8b5d5909)
 
-### Customize Color and Generate Plot  
+### Multiple Comparision Plot  
 ![Data-Visualizer](https://github.com/user-attachments/assets/d9650036-8a78-49d4-9e9f-33494f131cad)
 
-### Output Plot and Statistics  
+### All Outputs
 ![Screenshot 2025-04-05 213124](https://github.com/user-attachments/assets/ac7ae3f2-1875-4525-8037-90cf30cff868)
 
 ## Usage
-
-
+**Data Analysis for Beginners**: No coding required—users can upload data and instantly visualize insights.
+- **Quick Data Exploration**: Easily identify trends, patterns, and relationships in datasets.
+- **Academic Projects**: Ideal for students needing visualizations for reports or presentations.
+- **Business Insights**: Small businesses or analysts can use it to understand sales, performance, or survey data.
+- **Teaching Tool**: Useful in classrooms to demonstrate different types of plots and data analysis techniques.
+- **Presentation Graphics**: Download high-quality plots for use in reports, slide decks, or dashboards.
