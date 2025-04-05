@@ -1,4 +1,6 @@
-# 📊 Data Visualizer
+# 
+
+ Data Visualizer
 
 ## Overview  
 This interactive Streamlit application is designed to simplify data visualization for users by offering an intuitive interface to upload CSV files and generate various types of plots. Users can choose between creating single or multiple plots, customize visualizations with color selections, view statistical summaries, and download plots for further use. This application is ideal for students, analysts, and anyone who wants to explore their data visually without coding.
@@ -26,6 +28,10 @@ This interactive Streamlit application is designed to simplify data visualizatio
 
 ### Upload CSV File  
 `[Insert Screenshot]`
+![Screenshot 2025-04-05 213124](https://github.com/user-attachments/assets/ac7ae3f2-1875-4525-8037-90cf30cff868)
+![Screenshot 2025-04-05 203240](https://github.com/user-attachments/assets/749c595b-630d-47c2-93cd-3dc559784114)
+![Data-Visualizer1](https://github.com/user-attachments/assets/e217fd46-6dfb-4be9-8a43-8aea8b5d5909)
+![Data-Visualizer](https://github.com/user-attachments/assets/d9650036-8a78-49d4-9e9f-33494f131cad)
 
 ### Select Plot Options  
 `[Insert Screenshot]`
