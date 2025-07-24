@@ -1,4 +1,4 @@
-# Data Visualizer
+# Data Sculptor
 
 ## Overview  
 This interactive Streamlit application is designed to simplify data visualization for users by offering an intuitive interface to upload CSV files and generate various types of plots. Users can choose between creating single or multiple plots, customize visualizations with color selections, view statistical summaries, and download plots for further use. This application is ideal for students, analysts, and anyone who wants to explore their data visually without coding.
