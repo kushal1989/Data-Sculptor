@@ -4,7 +4,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import io
 import base64
-
 # Set the page configuration
 st.set_page_config(page_title='Data Visualizer', layout='wide', page_icon='📊')
 
